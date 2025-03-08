@@ -18,7 +18,7 @@ class GitHubResourceTest {
         given().pathParam("username", username)
 
                 .when()
-                .get("http://localhost:8080/git/{username}/repositories")
+                .get("http://localhost:8081/git/{username}/repositories")
 
                 .then()
                 .statusCode(200)
