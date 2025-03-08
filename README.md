@@ -2,7 +2,7 @@
 
 An application to fetch and display repository information for a GitHub user.
 
-Repository Name (excluding forks)
+-Repository Name (excluding forks)
 
 -Owner Login
 
@@ -18,7 +18,7 @@ Repository Name (excluding forks)
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/github-api.git
+    git clone git@github.com:pleewson/GitHub-api.git
     cd github-api
     ```
 
