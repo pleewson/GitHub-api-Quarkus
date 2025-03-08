@@ -2,7 +2,7 @@
 
 An application to fetch and display repository information for a GitHub user.
 
--Repository Name
+Repository Name (excluding forks)
 
 -Owner Login
 
