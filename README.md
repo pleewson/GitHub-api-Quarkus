@@ -39,7 +39,7 @@ Repository Name (excluding forks)
 This application allows you to fetch GitHub repositories' information for a user. To retrieve the data, send a GET request to the following endpoint:
 
 ```bash
-GET http://localhost:8080/git/{username}/repositories
+http://localhost:8080/git/{username}/repositories
 ```
 
 Replace {username} with the GitHub username you want to fetch, e.g., octocat.
