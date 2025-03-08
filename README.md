@@ -1,8 +1,11 @@
 # github-api
 
 An application to fetch and display repository information for a GitHub user.
+
 -Repository Name
+
 -Owner Login
+
 -For each branch it’s name and last commit sha
 
 
