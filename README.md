@@ -18,7 +18,7 @@ Repository Name (excluding forks)
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/github-api-client.git
+    git clone https://github.com/your-username/github-api.git
     cd github-api
     ```
 
