@@ -18,8 +18,8 @@ An application to fetch and display repository information for a GitHub user.
 1. **Clone the repository:**
 
     ```bash
-    git clone git@github.com:pleewson/GitHub-api.git
-    cd github-api
+    git clone git@github.com:pleewson/GitHub-api-Quarkus.git
+    cd github-api-quarkus
     ```
 
 2. **Install dependencies:**
